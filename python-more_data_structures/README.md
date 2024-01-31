@@ -1,1 +1,0 @@
-readme para este proyecto

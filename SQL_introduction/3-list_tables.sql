@@ -1,2 +1,0 @@
--- Lists tables
-SHOW TABLES;
